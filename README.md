@@ -1,16 +1,14 @@
 <!-- INTRO ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000
-&color=00FF00&center=true&vCenter=true&width=600&lines=Hey%20there!%20I%27m%20Chetan!;Full-Stack%20Dev%20|%20Tech%20Enthusiast;Making%20Code%20Cool!" alt="Typing Animation" />
+&color=00FF00&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Chetan!;Data+Analytics+%7C+ML+Enthusiast;Making+Code+Cool!" alt="Typing Animation" />
 </p>
 
 <!-- 🎯 About Me -->
 ### Hi, I'm **Chetan** 👋  
-- 🔭 I’m currently working on **[awesome projects or roles]**  
-- 🌱 I’m learning **[e.g. Rust, Kubernetes, ML, etc.]**  
-- 💬 Ask me about **[favorite tech topics]**  
-- 📫 How to reach me: **[email@example.com]**  
-- ⚡ Fun fact: **[quirky personal trivia]**
+- 🌱 I’m learning **Databricks** and **Machine Learning**  
+- 🧠 Enthusiast in **Data Analytics** and **ML**  
+- 📫 Reach me at: **your_email@example.com**  
 
 ---
 
@@ -24,27 +22,21 @@
 
 <!-- 🔗 Connect with Me -->
 <p align="center">
-  <a href="https://linkedin.com/in/chethancodes-03"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://twitter.com/chethan"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" /></a>
-  <a href="https://www.codewars.com/users/chethancodes-03"><img alt="Codewars" src="https://img.shields.io/badge/Codewars-_-purple?style=for-the-badge&logo=codewars" /></a>
+  <a href="https://www.linkedin.com/in/chethancodes-03"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.leetcode.com/chethancodes-03"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-Solve-orange?style=for-the-badge&logo=leetcode" /></a>
+  <a href="https://www.codechef.com/users/chethancodes"><img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-Practice-brown?style=for-the-badge&logo=codechef" /></a>
 </p>
 
 ---
 
 <!-- ⚙️ Skills Carousel -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,graphql,python,docker,git" alt="Tech Icons" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,python,java,git,tensorflow,seaborn,scikit-learn,pandas,numpy" alt="Skills" />
 </p>
 
 ---
 
 <!-- 📫 Fun GitHub Stats Bar -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chethancodes-03&theme=radical" alt="GitHub Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chethancodes-03&theme=radical" alt="GitHub Profile Summary Card" />
 </p>
-
-
-<!---
-chethancodes-03/chethancodes-03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
