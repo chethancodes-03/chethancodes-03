@@ -30,9 +30,20 @@
 ---
 
 <!-- ⚙️ Skills Carousel -->
+<!-- ⚙️ Skills Section -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,python,java,git,tensorflow,seaborn,scikit-learn,pandas,numpy,colab,jupyter,vscode,aws" alt="Skills" />
+  <!-- Skillicons.dev icons -->
+  <img src="https://skillicons.dev/icons?i=react,nodejs,python,java,git,tensorflow,vscode,aws" alt="Skills" /><br><br>
+
+  <!-- Shields.io badges -->
+  <img src="https://img.shields.io/badge/Seaborn-Visualization-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-ML-orange?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-white?style=for-the-badge&logo=pandas&logoColor=black" />
+  <img src="https://img.shields.io/badge/NumPy-Linear%20Algebra-blue?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Colab-Google-yellow?style=for-the-badge&logo=googlecolab&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jupyter-Notebooks-orange?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
+>
 
 
 ---
