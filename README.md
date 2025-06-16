@@ -1,14 +1,14 @@
 <!-- INTRO ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Chetan!;Data+Analytics+%7C+ML+Enthusiast;Making+Code+Cool!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+chethan!;Data+Analytics+%7C+ML+Enthusiast;Making+Code+Cool!" alt="Typing Animation" />
 </p>
 
 
 <!-- 🎯 About Me -->
-### Hi, I'm **Chetan** 👋  
+### Hi, I'm **chethan** 👋  
 - 🌱 I’m learning **Databricks** and **Machine Learning**  
 - 🧠 Enthusiast in **Data Analytics** and **ML**  
-- 📫 Reach me at: **aruruchetan03@.com**  
+- 📫 Reach me at: **aruruchethan03@.com**  
 
 ---
 
